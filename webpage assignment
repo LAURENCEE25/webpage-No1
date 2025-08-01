@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>LORDE LAU WEBPAGE
+            <body style="background-color: blueviolet;">
+    
+        </title> <meta charset="UTF-8">
+        <meta name="description" content="This is a newbie webpage">>
+        <meta name="keywords" content="Lawrence webpage html">
+        <meta name="author" content="LAU plp">
+    </head>
+<h1>LAWRENCE WEBPAGE</h1>
+<nav><ul>
+    <li>
+        <a href="about.html"> ABOUT</a>
+        <a href="contact.html">CONTACT</a>
+    </li>
+</ul></nav>
+<h2>Lawrence Portfolio</h2>
+<p>This is a paragraph of a software developer.Mission is to achieve greatness</p>
+<!--link-->
+<a href="https://google.com">click here to visit google page</a>
+<p>This is my first page.This is amazing.Below is the plp poster</p>
+<!--images-->
+<img src="LAWRENCE PLP.png" alt="lau poster" width="500" height="500">
+<!--External image-->
+<img src="Video by Mikhail Nilov: https://www.pexels.com/video/a-female-model-looking-afar-8239399/" alt="this is a model picture" width="500" height="500"> 
+<!--ordered lists-->
+<h5>list</h5>
+<ol type="a" start="4"> 
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+    <li>Item 4</li>
+</ol>
+<!--Un-ordered lists-->,<h2>LIST NO.2</h2>
+<ul type="square">
+    <li> <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+    <li>Item 4</li>
+ </li>
+</ul>
+<!--Forms-->
+<form action="/location" method="get">
+    <label for="Name">Name;</label>
+    <input type="text" id="">
+    <br />
+    <label for="email">Email</label>
+    <input type="email" id="email">
+    <br /> 
+    <label for="password">Password</label>
+    <input type="password" id="password">
+<br />
+
+    <button type="submit">Submit</button>
+    <br />
+    <!--semantic html-->
+    <!--header-->
+    <header> 
+        <hi>Welcome</hi>
+        <na>
+
+        </na>
+        <!--footer-->
+        <footer>
+            <p/&copy>2025.All rights reserved</p>
+        </footer>
+    </header>
+</form>
+
+</body>
+</html>
